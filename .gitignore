@@ -5,3 +5,4 @@ gh-pages/node_modules
 .stfolder
 apply-colors-original.sh
 .tmp
+.idea/**
